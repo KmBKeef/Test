@@ -4,7 +4,7 @@ title: Home
 
 # Grav is Running!
 ## You have installed **Grav** successfully
-
+[My Page](github/default.md) 
 This is a test text!
 
 # ONE Two three ...
