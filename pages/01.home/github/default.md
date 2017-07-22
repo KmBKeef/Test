@@ -1,6 +1,7 @@
 ---
 title: Github
 visible: true
+menu: 'My Page'
 ---
 
 git hub plz work bro 
