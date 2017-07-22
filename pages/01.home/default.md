@@ -6,7 +6,7 @@ title: Home
 ## You have installed **Grav** successfully
 [My Page](github/default.md) 
 This is a test text!
-
+<a class="button" href="{{ base_url }}.rss"><i class="fa fa-rss-square"></i> RSS</a>
 # ONE Two three ...
 
 
