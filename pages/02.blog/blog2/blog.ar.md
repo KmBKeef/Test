@@ -10,7 +10,7 @@ visible: true
 admin:
     children_display_order: collection
 content:
-    items: '@self.children'
+    items: "@self.children\r\n@test"
     limit: 5
     order:
         by: date
