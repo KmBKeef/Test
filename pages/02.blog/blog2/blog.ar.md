@@ -20,3 +20,5 @@ content:
 ---
 
 BLOG 2
+
+<a href='/blog2/test'> test </a>
